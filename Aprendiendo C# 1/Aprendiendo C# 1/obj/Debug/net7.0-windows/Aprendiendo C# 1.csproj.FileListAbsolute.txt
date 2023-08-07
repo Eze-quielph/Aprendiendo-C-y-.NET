@@ -1,0 +1,17 @@
+C:\Users\Ezequ\Desktop\C#\Aprendiendo C# 1\Aprendiendo C# 1\bin\Debug\net7.0-windows\Aprendiendo C# 1.exe
+C:\Users\Ezequ\Desktop\C#\Aprendiendo C# 1\Aprendiendo C# 1\bin\Debug\net7.0-windows\Aprendiendo C# 1.deps.json
+C:\Users\Ezequ\Desktop\C#\Aprendiendo C# 1\Aprendiendo C# 1\bin\Debug\net7.0-windows\Aprendiendo C# 1.runtimeconfig.json
+C:\Users\Ezequ\Desktop\C#\Aprendiendo C# 1\Aprendiendo C# 1\bin\Debug\net7.0-windows\Aprendiendo C# 1.dll
+C:\Users\Ezequ\Desktop\C#\Aprendiendo C# 1\Aprendiendo C# 1\bin\Debug\net7.0-windows\Aprendiendo C# 1.pdb
+C:\Users\Ezequ\Desktop\C#\Aprendiendo C# 1\Aprendiendo C# 1\obj\Debug\net7.0-windows\Aprendiendo C# 1.csproj.AssemblyReference.cache
+C:\Users\Ezequ\Desktop\C#\Aprendiendo C# 1\Aprendiendo C# 1\obj\Debug\net7.0-windows\Aprendiendo_C__1.Form1.resources
+C:\Users\Ezequ\Desktop\C#\Aprendiendo C# 1\Aprendiendo C# 1\obj\Debug\net7.0-windows\Aprendiendo C# 1.csproj.GenerateResource.cache
+C:\Users\Ezequ\Desktop\C#\Aprendiendo C# 1\Aprendiendo C# 1\obj\Debug\net7.0-windows\Aprendiendo C# 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequ\Desktop\C#\Aprendiendo C# 1\Aprendiendo C# 1\obj\Debug\net7.0-windows\Aprendiendo C# 1.AssemblyInfoInputs.cache
+C:\Users\Ezequ\Desktop\C#\Aprendiendo C# 1\Aprendiendo C# 1\obj\Debug\net7.0-windows\Aprendiendo C# 1.AssemblyInfo.cs
+C:\Users\Ezequ\Desktop\C#\Aprendiendo C# 1\Aprendiendo C# 1\obj\Debug\net7.0-windows\Aprendiendo C# 1.csproj.CoreCompileInputs.cache
+C:\Users\Ezequ\Desktop\C#\Aprendiendo C# 1\Aprendiendo C# 1\obj\Debug\net7.0-windows\Aprendiendo C# 1.dll
+C:\Users\Ezequ\Desktop\C#\Aprendiendo C# 1\Aprendiendo C# 1\obj\Debug\net7.0-windows\refint\Aprendiendo C# 1.dll
+C:\Users\Ezequ\Desktop\C#\Aprendiendo C# 1\Aprendiendo C# 1\obj\Debug\net7.0-windows\Aprendiendo C# 1.pdb
+C:\Users\Ezequ\Desktop\C#\Aprendiendo C# 1\Aprendiendo C# 1\obj\Debug\net7.0-windows\Aprendiendo C# 1.genruntimeconfig.cache
+C:\Users\Ezequ\Desktop\C#\Aprendiendo C# 1\Aprendiendo C# 1\obj\Debug\net7.0-windows\ref\Aprendiendo C# 1.dll
