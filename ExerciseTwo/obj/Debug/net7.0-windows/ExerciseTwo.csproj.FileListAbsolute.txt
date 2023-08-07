@@ -1,0 +1,17 @@
+C:\Users\Ezequ\Desktop\C#\ExerciseTwo\bin\Debug\net7.0-windows\ExerciseTwo.exe
+C:\Users\Ezequ\Desktop\C#\ExerciseTwo\bin\Debug\net7.0-windows\ExerciseTwo.deps.json
+C:\Users\Ezequ\Desktop\C#\ExerciseTwo\bin\Debug\net7.0-windows\ExerciseTwo.runtimeconfig.json
+C:\Users\Ezequ\Desktop\C#\ExerciseTwo\bin\Debug\net7.0-windows\ExerciseTwo.dll
+C:\Users\Ezequ\Desktop\C#\ExerciseTwo\bin\Debug\net7.0-windows\ExerciseTwo.pdb
+C:\Users\Ezequ\Desktop\C#\ExerciseTwo\obj\Debug\net7.0-windows\ExerciseTwo.csproj.AssemblyReference.cache
+C:\Users\Ezequ\Desktop\C#\ExerciseTwo\obj\Debug\net7.0-windows\ExerciseTwo.Form1.resources
+C:\Users\Ezequ\Desktop\C#\ExerciseTwo\obj\Debug\net7.0-windows\ExerciseTwo.csproj.GenerateResource.cache
+C:\Users\Ezequ\Desktop\C#\ExerciseTwo\obj\Debug\net7.0-windows\ExerciseTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequ\Desktop\C#\ExerciseTwo\obj\Debug\net7.0-windows\ExerciseTwo.AssemblyInfoInputs.cache
+C:\Users\Ezequ\Desktop\C#\ExerciseTwo\obj\Debug\net7.0-windows\ExerciseTwo.AssemblyInfo.cs
+C:\Users\Ezequ\Desktop\C#\ExerciseTwo\obj\Debug\net7.0-windows\ExerciseTwo.csproj.CoreCompileInputs.cache
+C:\Users\Ezequ\Desktop\C#\ExerciseTwo\obj\Debug\net7.0-windows\ExerciseTwo.dll
+C:\Users\Ezequ\Desktop\C#\ExerciseTwo\obj\Debug\net7.0-windows\refint\ExerciseTwo.dll
+C:\Users\Ezequ\Desktop\C#\ExerciseTwo\obj\Debug\net7.0-windows\ExerciseTwo.pdb
+C:\Users\Ezequ\Desktop\C#\ExerciseTwo\obj\Debug\net7.0-windows\ExerciseTwo.genruntimeconfig.cache
+C:\Users\Ezequ\Desktop\C#\ExerciseTwo\obj\Debug\net7.0-windows\ref\ExerciseTwo.dll
